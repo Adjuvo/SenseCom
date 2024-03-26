@@ -8,5 +8,5 @@ However, SenseCom can be a useful debugging and testing tool for your VR devices
 ## Installation
 
 The SenseCom software is not currently available in the app store, so it must be side-loaded onto your Android Device using the Android Debug Bridge.
-If you're using an Oculus Quest 2, you can do so via the [SideQuest](https://sidequestvr.com/) program. 
+If you're using an Oculus Quest 2, you can do so via the [SideQuest](https://sidequestvr.com/) program.
 For other devices, we recommend searching for "sideload" followed by your device name. 
