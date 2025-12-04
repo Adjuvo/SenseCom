@@ -1,4 +1,4 @@
 {
-    "senseComVersion": "1.9.0b15",
-    "branchName": "beta"
+    "senseComVersion": "1.9.0b16",
+    "branchName": "main"
 }
