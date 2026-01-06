@@ -1,4 +1,4 @@
 {
-    "senseComVersion": "1.9.0b18",
+    "senseComVersion": "1.9.0b19",
     "branchName": "beta"
 }
