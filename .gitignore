@@ -1,0 +1,5 @@
+# Backup files from Notepad++
+*.bak 
+
+# Unity Lock Files - On Linux
+*unity.lock
